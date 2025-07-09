@@ -56,7 +56,7 @@ The Neo4j graph ensures responses are grounded in validated data, and LangChain'
 - `README.md`: This file.
 
 ## Team
-- Anna Beatriz Loz, Pablo Lopes, Matheus Lofy e Lucas Gadonski
+- Anna Beatriz Loz, Pablo Lopes, Matheus Lofy, Lucas Gadonski e Sabine Freiman
 
 ## License
 MIT License
